@@ -1,0 +1,784 @@
+*{
+  margin: 0PX;
+  padding: 0PX;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif; 
+ }
+ 
+ .logo {
+   margin: 4px 0 4.3px 0;
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   width: 35.6px;
+   height: 35.7px;
+   box-sizing: border-box;
+ }
+ .logo-1 {
+   overflow-wrap: break-word;
+   font-family: 'Inter';
+   font-weight: 800;
+   font-size: 36px;
+   letter-spacing: 1px;
+   color: #000000;
+ }
+ .search-normal {
+   width: 24px;
+   height: 24px;
+ }
+ .vuesaxlinearsearch-normal {
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   width: 24px;
+   height: 24px;
+   box-sizing: border-box;
+ }
+ .shopping-bag {
+   width: 24px;
+   height: 24px;
+ }
+ .vuesaxlinearshopping-bag {
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   width: 24px;
+   height: 24px;
+   box-sizing: border-box;
+ }
+ .vuesaxtwotoneprofile {
+   margin: 2px 0 2.2px 0;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   width: 13.6px;
+   height: fit-content;
+   box-sizing: border-box;
+ }
+ .eng {
+   margin-right: 9.7px;
+   overflow-wrap: break-word;
+   font-family: 'Simplon Norm', 'Roboto Condensed';
+   font-weight: 700;
+   font-size: 16px;
+   letter-spacing: 1px;
+   color: var(--text-text, #252020);
+ }
+ .language {
+   margin: 2.5px 0;
+   display: flex;
+   flex-direction: row;
+   box-sizing: border-box;
+ 
+ }
+ .icons {
+   margin: 10px 0;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   width: 241.3px;
+   height: fit-content;
+   box-sizing: border-box;
+ }
+ .shop {
+   overflow-wrap: break-word;
+   font-family: 'Simplon Norm', 'Roboto Condensed';
+   font-weight: 700;
+   font-size: 20px;
+   letter-spacing: 1px;
+   color: var(--text-text, #252020);
+ }
+ .frame-136478 {
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   box-sizing: border-box;
+ }
+ .skills {
+   overflow-wrap: break-word;
+   font-family: 'Simplon Norm', 'Roboto Condensed';
+   font-weight: 700;
+   font-size: 20px;
+   letter-spacing: 1px;
+   color: var(--text-text, #252020);
+ }
+ .frame-136479 {
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   box-sizing: border-box;
+ }
+ .stories-1 {
+   overflow-wrap: break-word;
+   font-family: 'Simplon Norm', 'Roboto Condensed';
+   font-weight: 700;
+   font-size: 20px;
+   letter-spacing: 1px;
+   color: var(--text-text, #252020);
+ }
+ .tab-3 {
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   box-sizing: border-box;
+ }
+ .about {
+   overflow-wrap: break-word;
+   font-family: 'Simplon Norm', 'Roboto Condensed';
+   font-weight: 700;
+   font-size: 20px;
+   letter-spacing: 1px;
+   color: var(--text-text, #252020);
+ }
+ .tab-4 {
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   box-sizing: border-box;
+ }
+ .contact-us-2 {
+   overflow-wrap: break-word;
+   font-family: 'Simplon Norm', 'Roboto Condensed';
+   font-weight: 700;
+   font-size: 20px;
+   letter-spacing: 1px;
+   color: var(--text-text, #252020);
+ }
+ .tab-5 {
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   box-sizing: border-box;
+ }
+  .tabs {
+   margin-right: 2.2px;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   width: 631.1px;
+   box-sizing: border-box;
+ }
+ .header {
+   border-bottom: 1px solid #E5E5E5;
+   background: var(--misc-white, #FFFFFF);
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   padding: 36px 98.7px 23.5px 96px;
+   width: 1440px;
+   box-sizing: border-box;
+ }
+ 
+ .container-2 {
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   align-self: flex-start;
+   width: 300px;
+   box-sizing: border-box;
+ }
+ .vector-2 {
+   width: 10.6px;
+   height: 4.7px;
+ }
+ .vuesaxlineararrow-left-2 {
+   margin: 9px 0 7.3px 0;
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   width: 10.6px;
+   height: 4.7px;
+   box-sizing: border-box;
+ }
+ 
+ .vector-5 {
+   width: 10.6px;
+   height: 4.7px;
+ }
+ .vector-10 {
+   width: 20px;
+   height: 17.8px;
+ }
+ .vector-9 {
+   width: 20px;
+   height: 17.8px;
+ }
+ .group-136210{
+   font: 1em sans-serif;
+ }
+ .discover-our-product {
+   display: flex;
+   justify-content: center;
+   font-size: 70px;
+ }
+ .paragraph{
+   margin: 0 79.2px 26px 79.2px;
+   display: inline-block;
+   font-size: 24px;
+   justify-content: center;
+   text-align: center;
+   display: block;
+ }
+ .group-136223{
+   position: absolute;
+   left: 96px;
+   top: 532px;
+   right: 96px;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   box-sizing: border-box;
+ }
+ .Selector .rectangle-29458{
+   background: #FFFFFF;
+   position: absolute;
+   left: 50%;
+   top: 0px;
+   translate: -50% 0;
+   width: 1248px;
+   height: 88px;
+ }
+ .line-12{
+   background: #E5E5E5;
+   margin-bottom: 23px;
+   width: 1248px;
+   height: 1px;
+ }
+ .container-6{
+   margin: 0 96px 49px 96px;
+   display: flex;
+   flex-direction: row;
+   width: fit-content;
+   box-sizing: border-box;
+ }
+ .items{
+   margin-right: 20px;
+   width: 150px;
+   overflow-wrap: break-word;
+   font-family: 'Simplon Norm', 'Roboto Condensed';
+   font-weight: 700;
+   font-size: 18px;
+   line-height: 2.222;
+   text-transform: uppercase;
+   color: var(--text-text, #252020);
+   text-align: start;
+ }
+ 
+ .frame-136394{
+   background: var(--misc-white, #FFFFFF);
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   padding-left: 5.3px;
+   width: 130px;
+   box-sizing: border-box;
+ }
+ .vuesaxlineararrow-left{
+   margin: 9px 0 7.3px 0;
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   width: 10.6px;
+   height: 4.7px;
+   box-sizing: border-box;
+ }
+ .vector{
+   width: 10.6px;
+   height: 4.7px;
+ }
+ .hide-filter{
+   position: absolute;
+   right: -8px;
+   bottom: 0px;
+   overflow-wrap: break-word;
+   font-family: 'Adobe Caslon Pro', 'Roboto Condensed';
+   font-weight: 400;
+   font-size: 16px;
+   text-decoration-line: underline;
+   line-height: 2.5;
+   color: var(--text-secondary-text, #888792);
+ }
+ .group-136217{
+   display: flex;
+   flex-direction: row;
+   box-sizing: border-box;
+ }
+ .recommende{
+   margin-right: 18.5px;
+   overflow-wrap: break-word;
+   font-family: 'Simplon Norm', 'Roboto Condensed';
+   font-weight: 700;
+   font-size: 18px;
+   line-height: 2.222;
+   text-transform: uppercase;
+   color: var(--text-text, #252020);
+ }
+ .vuesaxlineararrow-left-1{
+   margin: 9px 0 7.3px 0;
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   width: 10.6px;
+   height: 4.7px;
+   box-sizing: border-box;
+ }
+ .vector-1{
+   width: 10.6px;
+   height: 4.7px;
+ }
+ .line-13{
+   background: #E5E5E5;
+   margin: 0 96px 31px 96px;
+   width: 1248px;
+   height: 1px;
+ }
+ .container-9{
+   margin-bottom: 33px;
+   display: flex;
+   flex-direction: row;
+   column-gap: 16px;
+   width: fit-content;
+   box-sizing: border-box;
+ }
+ .filters{
+   margin: 0 16px 1912px 0;
+   display: flex;
+   flex-direction: column;
+   box-sizing: border-box;
+ }
+ .customizable {
+   margin-bottom: 21px;
+   display: flex;
+   flex-direction: row;
+   align-self: flex-start;
+   width: fit-content;
+   box-sizing: border-box;
+ }
+ .checkbox {
+   border: 0.9px solid var(--text-secondary-text-1, #4D4D4D);
+   background: var(--misc-white-1, #FFFFFF);
+   margin: 0 8px 3px 0;
+   width: 22px;
+   height: 22px;
+ }
+ .customizble{
+   margin-top: 4px;
+   display: inline-block;
+   overflow-wrap: break-word;
+   font-family: 'Simplon Norm', 'Roboto Condensed';
+   font-weight: 700;
+   font-size: 18px;
+   text-transform: uppercase;
+   color: var(--text-text-1, #252020);
+ }
+ .seperator{
+   background: #E5E5E5;
+   margin-bottom: 23px;
+   width: 300px;
+   height: 1px;
+ }
+ .filter-1{
+   margin: 0 2.7px 24px 0;
+   display: flex;
+   flex-direction: column;
+   width: fit-content;
+   box-sizing: border-box;
+ }
+ .name{
+   margin-bottom: 9px;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   width: 297.3px;
+   box-sizing: border-box;
+ }
+ .ideal-for{
+   margin-right: 10.5px;
+   width: 276.2px;
+   overflow-wrap: break-word;
+   font-family: 'Simplon Norm', 'Roboto Condensed';
+   font-weight: 700;
+   font-size: 18px;
+   text-transform: uppercase;
+   color: var(--text-text-1, #252020);
+ }
+ .vuesaxlineararrow-left-3{
+   margin: 9px 0 7.3px 0;
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   width: 10.6px;
+   height: 4.7px;
+   box-sizing: border-box;
+ }
+ .vector-24{
+   width: 4.7px;
+   height: 10.6px;
+ }
+ .all{
+   align-self: flex-start;
+   overflow-wrap: break-word;
+   font-family: 'Simplon Norm', 'Roboto Condensed';
+   font-weight: 400;
+   font-size: 18px;
+   color: var(--text-text-1, #252020);
+ }
+ .seperator-2{
+   background: #E5E5E5;
+   margin-bottom: 23px;
+   width: 300px;
+   height: 1px;
+ }
+ .filter-3{
+   margin: 0 2.7px 25px 0;
+   display: flex;
+   flex-direction: column;
+   width: fit-content;
+   box-sizing: border-box;
+ }
+ .name-2{
+   margin-bottom: 9px;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   width: 297.3px;
+   box-sizing: border-box;
+ }
+ .work{
+   margin-right: 10.5px;
+   width: 276.2px;
+   overflow-wrap: break-word;
+   font-family: 'Simplon Norm', 'Roboto Condensed';
+   font-weight: 700;
+   font-size: 18px;
+   text-transform: uppercase;
+   color: var(--text-text-1, #252020);
+ }
+ .vuesaxlineararrow-left-5{
+   margin: 9px 0 7.3px 0;
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   width: 10.6px;
+   height: 4.7px;
+   box-sizing: border-box;
+ }
+ .vector-26{
+   width: 10.6px;
+   height: 4.7px;
+ }
+ .all-2{
+   align-self: flex-start;
+   overflow-wrap: break-word;
+   font-family: 'Simplon Norm', 'Roboto Condensed';
+   font-weight: 400;
+   font-size: 18px;
+   color: var(--text-text-1, #252020);
+ }  
+ .seperator-3{
+   background: #E5E5E5;
+   margin-bottom: 23px;
+   width: 300px;
+   height: 1px;
+ }
+ .filter-4{
+   margin: 0 2.7px 25px 0;
+   display: flex;
+   flex-direction: column;
+   width: fit-content;
+   box-sizing: border-box;
+ }
+ .name-3{
+   margin-bottom: 9px;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   width: 297.3px;
+   box-sizing: border-box;
+ }
+ .fabric{
+   margin-right: 10.5px;
+   width: 276.2px;
+   overflow-wrap: break-word;
+   font-family: 'Simplon Norm', 'Roboto Condensed';
+   font-weight: 700;
+   font-size: 18px;
+   text-transform: uppercase;
+   color: var(--text-text-1, #252020);
+ }
+ .vuesaxlineararrow-left-6{
+   margin: 9px 0 7.3px 0;
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   width: 10.6px;
+   height: 4.7px;
+   box-sizing: border-box;
+ }
+ .vector-27 {
+   width: 16px;
+   height: 12.3px;
+ }
+ .all-3{
+   align-self: flex-start;
+   overflow-wrap: break-word;
+   font-family: 'Simplon Norm', 'Roboto Condensed';
+   font-weight: 400;
+   font-size: 18px;
+   color: var(--text-text-1, #252020);
+ }
+ .seperator-4{
+   background: #E5E5E5;
+   margin-bottom: 23px;
+   width: 300px;
+   height: 1px;
+ }
+ .filter-7{
+   margin: 0 2.7px 25px 0;
+   display: flex;
+   flex-direction: column;
+   width: fit-content;
+   box-sizing: border-box;
+ }
+ .name-4{
+   margin-bottom: 9px;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   width: 297.3px;
+   box-sizing: border-box;
+ }
+ .segment{
+   margin-right: 10.5px;
+   width: 276.2px;
+   overflow-wrap: break-word;
+   font-family: 'Simplon Norm', 'Roboto Condensed';
+   font-weight: 700;
+   font-size: 18px;
+   text-transform: uppercase;
+   color: var(--text-text-1, #252020);
+ }
+ .vuesaxlineararrow-left-7{
+   margin: 9px 0 7.3px 0;
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   width: 10.6px;
+   height: 4.7px;
+   box-sizing: border-box;
+ }
+ .vector-28{
+   width: 35.6px;
+   height: 35.7px;
+ }
+ .all-4{
+   align-self: flex-start;
+   overflow-wrap: break-word;
+   font-family: 'Simplon Norm', 'Roboto Condensed';
+   font-weight: 400;
+   font-size: 18px;
+   color: var(--text-text-1, #252020);
+ }
+ .seperator-5{
+   background: #E5E5E5;
+   margin-bottom: 23px;
+   width: 300px;
+   height: 1px;
+ }
+ .filter-8{
+   margin: 0 2.7px 25px 0;
+   display: flex;
+   flex-direction: column;
+   width: fit-content;
+   box-sizing: border-box;
+ }
+ .name-5{
+   margin-bottom: 9px;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   width: 297.3px;
+   box-sizing: border-box;
+ }
+ .suitable-for{
+   margin-right: 10.5px;
+   width: 276.2px;
+   overflow-wrap: break-word;
+   font-family: 'Simplon Norm', 'Roboto Condensed';
+   font-weight: 700;
+   font-size: 18px;
+   text-transform: uppercase;
+   color: var(--text-text-1, #252020);
+ }
+ .vuesaxlineararrow-left-8{
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   width: 4.7px;
+   height: 10.6px;
+   box-sizing: border-box;
+ }
+ .vector-29{
+   width: 19px;
+   height: 20px;
+ }
+ .all-5{
+   align-self: flex-start;
+   overflow-wrap: break-word;
+   font-family: 'Simplon Norm', 'Roboto Condensed';
+   font-weight: 400;
+   font-size: 18px;
+   color: var(--text-text-1, #252020);
+ }
+ .seperator-6{
+   background: #E5E5E5;
+   margin-bottom: 23px;
+   width: 300px;
+   height: 1px;
+ }
+ .filter-10{
+   margin: 0 2.7px 25px 0;
+   display: flex;
+   flex-direction: column;
+   width: fit-content;
+   box-sizing: border-box;
+ }
+ .name-6{
+   margin-bottom: 9px;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   width: 297.3px;
+   box-sizing: border-box;
+ }
+ .raw-materials{
+   margin-right: 10.5px;
+   width: 276.2px;
+   overflow-wrap: break-word;
+   font-family: 'Simplon Norm', 'Roboto Condensed';
+   font-weight: 700;
+   font-size: 18px;
+   text-transform: uppercase;
+   color: var(--text-text-1, #252020);
+ }
+ .vuesaxlineararrow-left-9{
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   width: 4.7px;
+   height: 10.6px;
+   box-sizing: border-box;
+ }
+ .vector-30{
+   width: 18.5px;
+   height: 20px;
+ }
+ .all-6{
+   align-self: flex-start;
+   overflow-wrap: break-word;
+   font-family: 'Simplon Norm', 'Roboto Condensed';
+   font-weight: 400;
+   font-size: 18px;
+   color: var(--text-text-1, #252020);
+ }
+ .seperator-7{
+   background: #E5E5E5;
+   margin-bottom: 23px;
+   width: 300px;
+   height: 1px;
+ }
+ .filter-11{
+   margin: 0 2.7px 25px 0;
+   display: flex;
+   flex-direction: column;
+   width: fit-content;
+   box-sizing: border-box;
+ }
+ .name-7{
+   margin-bottom: 9px;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   width: 297.3px;
+   box-sizing: border-box;
+ }
+ .pattern{
+   margin-right: 10.5px;
+   width: 276.2px;
+   overflow-wrap: break-word;
+   font-family: 'Simplon Norm', 'Roboto Condensed';
+   font-weight: 700;
+   font-size: 18px;
+   text-transform: uppercase;
+   color: var(--text-text-1, #252020);
+ }
+ .vuesaxlineararrow-left-10{
+   margin: 18px 0 17.3px 0;
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   width: 10.6px;
+   height: 4.7px;
+   box-sizing: border-box;
+ }
+ .vector-31{
+   width: 20px;
+   height: 17.8px;
+ }
+ .all-7{
+   align-self: flex-start;
+   overflow-wrap: break-word;
+   font-family: 'Simplon Norm', 'Roboto Condensed';
+   font-weight: 400;
+   font-size: 18px;
+   color: var(--text-text-1, #252020);
+ }
+ .seperator-8{
+   background: #E5E5E5;
+   width: 300px;
+   height: 1px;
+ }
+ .seperator-1{
+   background: #E5E5E5;
+   margin-bottom: 23px;
+   width: 300px;
+   height: 1px;
+ }
+ .filter-2{
+   margin: 0 2.7px 25px 0;
+   display: flex;
+   flex-direction: column;
+   width: fit-content;
+   box-sizing: border-box;
+ }
+ .occasion{
+   margin-right: 10.5px;
+   width: 276.2px;
+   overflow-wrap: break-word;
+   font-family: 'Simplon Norm', 'Roboto Condensed';
+   font-weight: 700;
+   font-size: 18px;
+   text-transform: uppercase;
+   color: var(--text-text-1, #252020);
+ }
+ .vuesaxlineararrow-left-4{
+   margin: 9px 0 7.3px 0;
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   width: 10.6px;
+   height: 4.7px;
+   box-sizing: border-box;
+ }
+ .vector-25{
+   width: 4.7px;
+   height: 10.6px;
+ }
+ .all-1{
+   align-self: flex-start;
+   overflow-wrap: break-word;
+   font-family: 'Simplon Norm', 'Roboto Condensed';
+   font-weight: 400;
+   font-size: 18px;
+   color: var(--text-text-1, #252020);
+ }
